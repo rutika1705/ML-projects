@@ -5,6 +5,9 @@
 ![CatBoost](https://img.shields.io/badge/CatBoost-Best%20Model-yellow?style=flat-square)
 ![R2 Score](https://img.shields.io/badge/R²%20Score-0.88-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+## 🌐 Live Demo
+
+👉 [Try the App Here](https://ml-projects-o06y.onrender.com)
 
 > A production-ready ML pipeline that predicts student math scores based on demographic and academic factors — from raw data ingestion to a deployed Flask web application.
 
