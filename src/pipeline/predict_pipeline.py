@@ -5,7 +5,7 @@ from src.exception import CustomException
 from src.utilis import load_object
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # src/pipeline/
-ROOT_DIR = os.path.join(BASE_DIR, '..', '..')           # project root
+ROOT_DIR = os.path.join(BASE_DIR, '..')           # project root
 
 class PredictPipeline:
     def __init__(self):
